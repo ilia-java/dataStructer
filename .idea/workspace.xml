@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2152a294-6b01-4db5-a45f-7f9ee2aa6536" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/array/JavaArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/ArrayToList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/IteratorList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/ListCommonOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/ListToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/list/SortList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/HashMapEnterSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/map/PutIfAbsent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/ArrayasSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/SetCommonOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/SetSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/set/SetToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stackQueue/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stackQueue/StackDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="2152a294-6b01-4db5-a45f-7f9ee2aa6536" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
