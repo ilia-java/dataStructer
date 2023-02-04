@@ -39,13 +39,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.genericTask.Main">
-    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericTask.Library" />
+  <component name="RunManager" selected="Application.QueueDemo">
+    <configuration name="Hash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Hash" />
       <module name="dataStructer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="genericTask.*" />
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +53,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.Main" />
+    <configuration name="HashMapEnterSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.HashMapEnterSet" />
       <module name="dataStructer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.*" />
+          <option name="PATTERN" value="map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutIfAbsent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.PutIfAbsent" />
+      <module name="dataStructer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,26 +105,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="genericTask.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericTask.Main" />
-      <module name="dataStructer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="genericTask.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.genericTask.Main" />
-        <item itemvalue="Application.Library" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.QueueDemo" />
         <item itemvalue="Application.StackDemo" />
+        <item itemvalue="Application.PutIfAbsent" />
+        <item itemvalue="Application.HashMapEnterSet" />
+        <item itemvalue="Application.Hash" />
       </list>
     </recent_temporary>
   </component>
