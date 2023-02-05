@@ -1,11 +1,14 @@
 package genericTask;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        Library<String> contents =new Library<>("scary","action","interesting");
-        System.out.println("Genres in library:");
-        System.out.println(contents.getBook());
-        System.out.println(contents.getNewspaper());
-        System.out.println(contents.getVideo());
+        System.out.println("please select something you like:\n "+" 1. Books\n2. Newspaper\n3. video");
+        Scanner scanner=new Scanner(System.in);
+        Integer choice=scanner.nextInt();
+        switch (choice){
+            case 1:
+        }
     }
 }
