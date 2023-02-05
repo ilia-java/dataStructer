@@ -1,19 +1,33 @@
 package genericTask;
 
 public class Property <T>{
+    private T name;
+
     private T like;
     private T price;
     private T disLike;
 
-    public Property(T like, T price, T disLike) {
+    public T getName() {
+        return name;
+    }
+
+    public void setName(T name) {
+        this.name = name;
+    }
+
+    public Property(T like, T price, T disLike, T name) {
         this.like = like;
         this.price = price;
         this.disLike = disLike;
+        this.name=name;
+
     }
 
     public T getLike() {
         return like;
     }
+
+
 
     public void setLike(T like) {
         this.like = like;
@@ -34,4 +48,5 @@ public class Property <T>{
     public void setDisLike(T disLike) {
         this.disLike = disLike;
     }
+
 }
